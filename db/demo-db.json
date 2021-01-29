@@ -1,0 +1,1 @@
+{"users": {"1": {"id": 1, "role": 1, "username": "user1", "email": "user1@gmail.com"}, "2": {"id": 2, "role": 3, "username": "user2", "email": "user2@gmail.com"}, "3": {"id": 3, "role": 3, "username": "testuser3", "email": "testuser3@protonmail.com"}, "4": {"id": 4, "role": 3, "username": "testuser4", "email": "testuser4@yahoo.com"}}}
