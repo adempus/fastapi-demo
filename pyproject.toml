@@ -2,7 +2,6 @@
 name = "fastapi-demo"
 version = "0.1.0"
 description = ""
-authors = ["Jeff <jmorin722@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
